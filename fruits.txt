@@ -3,4 +3,8 @@ berries
 cherries
 mangoes
 oranges
+<<<<<<< HEAD
 add missing title
+=======
+add branch1
+>>>>>>> feature1
