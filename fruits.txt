@@ -3,8 +3,20 @@ berries
 cherries
 mangoes
 oranges
+<<<<<<< HEAD
+<<<<<<< HEAD
+add missing title
+=======
 add branch1
+<<<<<<< HEAD
 grapes
 add more fruits for branch
 add more for branch 1
 add more for branch 1_2
+=======
+>>>>>>> feature1
+=======
+add branch1
+grapes
+>>>>>>> feature1
+>>>>>>> 863568e1e210ee3278c789a2faef129fa881a580
